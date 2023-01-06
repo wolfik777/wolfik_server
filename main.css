@@ -1,3 +1,23 @@
 body {
-	color: red;
+	color: black;
+}
+
+#bm:hover {
+	color: #C0CCC7
+}
+
+.fkj {
+	cursor: grab
+}
+
+body {
+	background-color: #013208
+}
+
+#bm {
+	text-align: center;
+}
+
+.fkj {
+	text-align: center;
 }
