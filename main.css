@@ -3,15 +3,15 @@ body {
 }
 
 #bm:hover {
-	color: #C0CCC7
+	color: #C0CCC7;
 }
 
 .fkj {
-	cursor: grab
+	cursor: grab;
 }
 
 body {
-	background-color: #013208
+	background-color: #013208;
 }
 
 #bm {
@@ -23,9 +23,34 @@ body {
 }
 
 #g {
-	color: #60726C
+	color: #60726C;
 }
 
-#jkl {
-margin-left: 100px; 
+#jk {
+	vertical-align: 90px; 
+}
+
+#g p:hover {
+	color: white;
+}
+
+#v {
+	text-align: center;
+}
+
+#v {
+	background-color: #97bc62;
+}
+
+.topor {
+	vertical-align: 90px;
+
+}
+
+.topor:hover {
+	color: #60C9B3
+}
+
+#lomanie {
+	background-color: #60C9B3
 }
