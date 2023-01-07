@@ -1,5 +1,5 @@
 body {
-	color: black;
+	color: white;
 }
 
 #bm:hover {
@@ -11,7 +11,7 @@ body {
 }
 
 body {
-	background-color: #013208;
+	background-color: black;
 }
 
 #bm {
@@ -38,19 +38,11 @@ body {
 	text-align: center;
 }
 
-#v {
-	background-color: #97bc62;
-}
-
 .topor {
 	vertical-align: 90px;
 
 }
 
 .topor:hover {
-	color: #60C9B3
-}
-
-#lomanie {
-	background-color: #60C9B3
+	color: #60C9B3;
 }
