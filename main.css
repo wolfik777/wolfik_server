@@ -27,6 +27,5 @@ body {
 }
 
 #jkl {
-position:relative;
-top:-170px;
+margin-left: 100px; 
 }
